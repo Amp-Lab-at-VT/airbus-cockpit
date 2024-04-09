@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Ethan James
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+A replica Airbus A320 cockpit for simulation
 
 # Date Started
-11-16-2000
+3-1-2024
